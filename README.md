@@ -4,3 +4,5 @@ For this project I used a Kaggle dataset that gathered data on energy consumptio
 - What are the top countries that use renewables, oil consumption, coal consumption, and gas consumption
 - What is the average of renewables used per country
 - What are the top countries contributing to CO2 emissions.
+
+After I ran my queries, I copied the tables into Excel and saved them to use for potential visualizations.
